@@ -4,6 +4,18 @@ Long Short Term Transformer Recommendation System
 ### Dataset:
 [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/)
 
+### Folder Structure:
+
+ ```
+  bst-lstr/
+  │
+  ├── data/ - directory for storing train and test data
+  │
+  └── saved/
+      ├── models/ - trained models are saved here
+      └── log/ - default logdir for tensorboard and logging output
+  ```
+
 ### Work Done:
 
 - Implemented Behavior Sequence Transformer in PyTorch
