@@ -12,6 +12,6 @@ Long Short Term Transformer Recommendation System
 
 ### Work to be done:
 
-- [ ] Add padding for the sequences to cover more movies in the train dataset
+- [x] Add padding for the sequences to cover more movies in the train dataset
 - [ ] Test when overfitting occurs
 - [ ] Run inference on a deployed model
