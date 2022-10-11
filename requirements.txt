@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+tensorboard
+pytorch_lightning
