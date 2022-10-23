@@ -10,7 +10,7 @@ Long Short Term Transformer Recommendation System
   bst-lstr/
   │
   ├── data/ - directory for storing train and test data
-  │
+  ├── util/ - directory for additional colab notebooks
   └── saved/
       ├── models/ - trained models are saved here
       └── log/ - default logdir for tensorboard and logging output
@@ -26,4 +26,5 @@ Long Short Term Transformer Recommendation System
 
 - [x] Add padding for the sequences to cover more movies in the train dataset
 - [ ] Test when overfitting occurs
+- [ ] Adding support for GRU model for matching
 - [ ] Run inference on a deployed model
