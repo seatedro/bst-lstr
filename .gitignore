@@ -1,5 +1,8 @@
 bst
 lightning_logs
 epinions
-data/ml-1m
-data/lstr
+scores
+util/logs
+**/__pycache__
+data
+**/.vscode
